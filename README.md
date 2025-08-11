@@ -104,7 +104,7 @@ Nice!
 <img src="https://i.imgur.com/Wv45gBL.png" height="80%" width="80%"> 
 <img src="https://i.imgur.com/jjkUw00.png" height="80%" width="80%"> 
 
-<p align="center"> Now we're ready to solve some technical problems! </p>
+<p align="center"> Now we're ready to solve some technical issues! </p>
 <br> 
 <br /> 
 
